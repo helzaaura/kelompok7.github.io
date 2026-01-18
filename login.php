@@ -1,7 +1,7 @@
 <?php
-// Simulasi data username dan password
+// Username dan password valid
 $valid_username = "admin";
-$valid_password = "password123";
+$valid_password = "12345";
 
 // Cek apakah form sudah di-submit
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
